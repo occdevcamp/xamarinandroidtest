@@ -9,9 +9,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Android.Runtime.ResourceDesignerAttribute("XamarinAndroidTest.Resource", IsApplication=true)]
+[assembly: global::Android.Runtime.ResourceDesignerAttribute("Oxfordcc.DevCamp2013.AndroidChatUI.Resource", IsApplication=true)]
 
-namespace XamarinAndroidTest
+namespace Oxfordcc.DevCamp2013.AndroidChatUI
 {
 	
 	
